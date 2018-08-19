@@ -1,10 +1,10 @@
 name: Lovelycards
-display_name: Starter Theme
-version: 3.0.0
+display_name: Lovelycards
+version: 1.7.0
 author:
-  name: "PrestaShop Team"
-  email: "pub@prestashop.com"
-  url: "http://www.prestashop.com"
+  name: "Lovelycards Team"
+  email: "support@lovelycards.ru"
+  url: "http://lovelycards.ru"
 
 meta:
   compatibility:

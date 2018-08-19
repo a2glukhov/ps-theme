@@ -1,5 +1,5 @@
 {
-    "name": "new-theme",
+    "name": "lovelycards-theme",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
@@ -8,7 +8,7 @@
         "watch": "webpack --progress --colors --watch",
         "debug": "webpack --progress --colors --debug --devtool source-map --output-pathinfo --display-chunks --watch"
     },
-    "author": "PrestaShop",
+    "author": "Lovelycards",
     "license": "AFL-3.0",
     "devDependencies": {
         "babel-core": "^6.4.5",
